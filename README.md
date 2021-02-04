@@ -1,6 +1,3 @@
-POO 101
----
-
 Créez une classe StrUtils qui contiendra :
 
 - une propriete privée `str` qui contiendra la chaine de caractères à manipuler et mise à jour dans le constructeur
